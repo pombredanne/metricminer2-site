@@ -15,7 +15,7 @@
         </p>
 
         <p>
-        Take a look on the example. Simple, isn't it?
+        Take a look at the example. Simple, isn't it?
 
         <script src="https://gist.github.com/mauricioaniche/2298e38be0d98d9d27db.js"></script>
         </p>
@@ -24,6 +24,26 @@
         Take a look at <a href="documentation.php">our documentation</a>. Or talk to us
         at <i>mauricioaniche at gmail dot com</i>.
         </p>
+
+        <h2>How do I cite MetricMiner?</h2>
+
+        <p>
+    Sokol, Francisco Zigmund, Mauricio Finavaro Aniche, and Marco Gerosa. "MetricMiner: Supporting researchers in mining software repositories." Source Code Analysis and Manipulation (SCAM), 2013 IEEE 13th International Working Conference on. IEEE, 2013.
+        </p>
+
+        <p>
+        <i>
+@inproceedings{sokol2013metricminer,<br/>
+  title={MetricMiner: Supporting researchers in mining software repositories},<br/>
+  author={Sokol, Francisco Zigmund and Finavaro Aniche, Mauricio and Gerosa, Marco and others},<br/>
+  booktitle={Source Code Analysis and Manipulation (SCAM), 2013 IEEE 13th International Working Conference on},<br/>
+  pages={142--146},
+  year={2013},<br/>
+  organization={IEEE}<br/>
+}<br/>
+</i>
+        </p>
+
 
     </div>
 </div>

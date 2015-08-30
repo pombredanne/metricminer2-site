@@ -45,13 +45,10 @@
                     <a href="documentation.php">Documentation</a>
                 </li>
                 <li>
-                    <a href="https://github.com/metricminer-msr/metricminer2">Source Code</a>
+                    <a href="https://github.com/metricminer-msr/metricminer2" target="_blank">Source Code</a>
                 </li>                
                 <li>
                     <a href="team.php">Team</a>
-                </li>
-                <li>
-                    <a href="contact.php">Contact</a>
                 </li>
             </ul>
         </div>
