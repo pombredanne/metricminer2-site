@@ -14,16 +14,18 @@
 
         <p>
             You simply have to start a Java Project in Eclipse. MetricMiner is on Maven, so
-            you can download all its dependencies: 
+            you can download all its dependencies by only adding this to your pom.xml. Or, if
+            you want, you can download a <a href="download/metricminer2-skeleton.zip">skeleton project</a>: 
 
-            <script src="https://gist.github.com/mauricioaniche/9acb8a7688492a951d42.js"></script>
+            <script src="https://gist.github.com/mauricioaniche/82b9118f874b7bb8dc72.js"></script>
         </p>
 
         <p>
             MetricMiner needs a <i>Study</i>. The interface is quite simple: a single <i>execute()</i>
             method:
 
-            <script src="https://gist.github.com/mauricioaniche/82b9118f874b7bb8dc72.js"></script>
+            
+            <script src="https://gist.github.com/mauricioaniche/9acb8a7688492a951d42.js"></script>
         </p>
         
         <p>
