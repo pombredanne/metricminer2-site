@@ -34,24 +34,24 @@
         <div id="sidebar-wrapper">
             <ul class="sidebar-nav">
                 <li class="sidebar-brand">
-                    <a href="#">
+                    <a href="index.php">
                         MetricMiner 2
                     </a>
                 </li>
                 <li>
-                    <a href="#">Home</a>
-                </li>
-                <li>
-                    <a href="getting-started.php">Getting Started</a>
+                    <a href="index.php">Home</a>
                 </li>
                 <li>
                     <a href="documentation.php">Documentation</a>
                 </li>
                 <li>
-                    <a href="#">Team</a>
+                    <a href="https://github.com/metricminer-msr/metricminer2">Source Code</a>
+                </li>                
+                <li>
+                    <a href="team.php">Team</a>
                 </li>
                 <li>
-                    <a href="#">Contact</a>
+                    <a href="contact.php">Contact</a>
                 </li>
             </ul>
         </div>
