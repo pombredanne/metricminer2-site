@@ -42,7 +42,7 @@
                     <a href="#">Home</a>
                 </li>
                 <li>
-                    <a href="#">Getting Started</a>
+                    <a href="getting-started.php">Getting Started</a>
                     <ul>
                     <li>Lesson 1</li>
 
