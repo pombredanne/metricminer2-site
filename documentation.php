@@ -6,18 +6,7 @@
     <div class="col-lg-12">
         <h1>Documentation</h1>
 
-        <ul>
-            <li><a href="#our-first-study">Our first study</a></li>
-            <li><a href="configuring">Configuring the project</a></li>
-            <li><a href="commit-range">Selecting the Commit Range</a></li>
-            <li><a href="modifications">Getting Modifications</a></li>
-            <li><a href="state">Managing State in the Visitor</a></li>
-            <li><a href="parse">Parsing Code</a></li>
-            <li><a href="current-revision">Getting the Current Revision</a></li>
-            <li><a href="threads">Dealing with Threads</a></li>
-            <li><a href="datajoy">Using DataJoy</a></li>
-            <li><a href="advanced">Advanced Configurations</a></li>
-        </ul>
+        <? include("menu.php"); ?>
 
         <h2 id="our-first-study">Our first study</h2>
 

@@ -43,6 +43,8 @@
                 </li>
                 <li>
                     <a href="documentation.php">Documentation</a>
+
+                    <? include("menu.php"); ?>
                 </li>
                 <li>
                     <a href="https://github.com/metricminer-msr/metricminer2" target="_blank">Source Code</a>
