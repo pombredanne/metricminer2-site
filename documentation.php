@@ -210,9 +210,7 @@
         </p>
 
         <p>
-        Take a look of the output. You can play with the <a href="https://www.getdatajoy.com/project/55e36c0e3b765b3001b99476">project here</a>: 
-
-        <img src="download/histogram.png">
+        You can play with the <a href="https://www.getdatajoy.com/project/55e36c0e3b765b3001b99476">project here</a>.
         </p>
 
         <h2 id="advanced">Advanced Configurations</h2>
