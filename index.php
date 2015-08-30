@@ -12,12 +12,19 @@
         	Git repository, such as commits, developers, modifications, diffs, and
         	source codes, and quickly export CSV files.
 
-            <script src="https://gist.github.com/mauricioaniche/2298e38be0d98d9d27db.js"></script>
         </p>
 
         <p>
-        Take a look at <a href="documentation.php">our documentation</a>. It is simple to use!
+        Take a look on the example. Simple, isn't it?
+
+        <script src="https://gist.github.com/mauricioaniche/2298e38be0d98d9d27db.js"></script>
         </p>
+
+        <p>
+        Take a look at <a href="documentation.php">our documentation</a>. Or talk to us
+        at <i>mauricioaniche at gmail dot com</i>.
+        </p>
+
     </div>
 </div>
 </div>
