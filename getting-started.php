@@ -7,7 +7,14 @@
         <h1>Getting Started</h1>
 
         <p>
-        	<script src="https://gist.github.com/mauricioaniche/a74229aa1c4dd9caf915.js"></script>
+        	Java project
+        	Maven configuration
+
+        	<script src="https://gist.github.com/mauricioaniche/82b9118f874b7bb8dc72.js"></script>
+        	
+        	Zip file
+        	Simple Main
+        	Execute
         </p>
 
     </div>

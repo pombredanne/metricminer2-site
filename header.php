@@ -43,15 +43,9 @@
                 </li>
                 <li>
                     <a href="getting-started.php">Getting Started</a>
-                    <ul>
-                    <li>Lesson 1</li>
-
-                    <li>Lesson 2</li>
-
-                    <li>Lesson 3</li>
-
-                    <li>Lesson 4</li>
-                    </ul>
+                </li>
+                <li>
+                    <a href="documentation.php">Documentation</a>
                 </li>
                 <li>
                     <a href="#">Team</a>
