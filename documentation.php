@@ -8,7 +8,7 @@
 
         <? include("menu.php"); ?>
 
-        <h2 id="our-first-study">Our first study</h2>
+        <h2 id="getting-started">Getting Started</h2>
 
         <p>
             You simply have to start a Java Project in Eclipse. MetricMiner is on Maven, so
