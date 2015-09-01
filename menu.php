@@ -1,6 +1,7 @@
         <ul>
             <li><a href="documentation.php#getting-started">Getting Started</a></li>
             <li><a href="documentation.php#configuring">Configuring the project</a></li>
+            <li><a href="documentation.php#logging">Logging</a></li>
             <li><a href="documentation.php#commit-range">Selecting the Commit Range</a></li>
             <li><a href="documentation.php#modifications">Getting Modifications</a></li>
             <li><a href="documentation.php#state">Managing State in the Visitor</a></li>

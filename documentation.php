@@ -85,6 +85,15 @@
         </ul>
         </p>
 
+        <h2 id="logging">Logging</h2>
+
+        <p>
+        MetricMiner uses log4j to print useful information about its execution. 
+        We recommend tou to have a log4.xml:
+
+        <script src="https://gist.github.com/mauricioaniche/37a2c216d689e8ff9a4e.js"></script>
+        </p>
+
         <h2 id="commit-range">Selecting the Commit Range</h2>
 
         <p>
