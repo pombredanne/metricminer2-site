@@ -78,10 +78,10 @@
         class contains two factory methods to that: 
 
         <ul>
-            <i>singleProject(path)</i>: When you want to analyze a single repository.
-            <i>allProjectsIn(path)</i>: When you want to analyze many repositories. In this case,
+            <li><i>singleProject(path)</i>: When you want to analyze a single repository.</li>
+            <li><i>allProjectsIn(path)</i>: When you want to analyze many repositories. In this case,
             you should pass a path to which all projects are sub-directories of it. Each directory
-            will be considered as a project to MetricMiner.
+            will be considered as a project to MetricMiner.</li>
         </ul>
         </p>
 
