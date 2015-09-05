@@ -16,6 +16,11 @@
             you want, you can download a <a href="download/metricminer2-skeleton.zip">skeleton project</a>: 
 
             <script src="https://gist.github.com/mauricioaniche/82b9118f874b7bb8dc72.js"></script>
+
+            Always use the latest version in Maven. You can see them here: 
+            <a href="http://www.mvnrepository.com/artifact/br.usp/metricminer">
+            http://www.mvnrepository.com/artifact/br.usp/metricminer
+            </a>
         </p>
 
         <p>
