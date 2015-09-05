@@ -105,7 +105,8 @@
             <li><i>onlyInHead()</i>: It only analyzes the most recent commit.</li>
             <li><i>single(hash)</i>: It only analyzes a single commit with the provided hash.</li>
             <li><i>monthly(months)</i>: It selects one commit per month, from the beginning to the end of the repo.</li>
-            <li><i>range(commits...)</i>: The list of commits to be processed.</li>
+            <li><i>list(commits...)</i>: The list of commits to be processed.</li>
+            <li><i>range(start,end)</i>: The range of commits, starting at "start" hash, ending at "end" hash.</li>
         </ul>
         </p>
 
