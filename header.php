@@ -50,6 +50,9 @@
                     <a href="https://github.com/metricminer-msr/metricminer2" target="_blank">Source Code</a>
                 </li>                
                 <li>
+                    <a href="changelog.php">Change log</a>
+                </li>
+                <li>
                     <a href="team.php">Team</a>
                 </li>
             </ul>
