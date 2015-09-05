@@ -108,6 +108,9 @@
             <li><i>list(commits...)</i>: The list of commits to be processed.</li>
             <li><i>range(start,end)</i>: The range of commits, starting at "start" hash, ending at "end" hash.</li>
         </ul>
+
+        One interesting thing about MetricMiner is that is avoids huge commits. When a commit
+        contains too many files (> 50), it will be ignored.
         </p>
 
         <h2 id="modifications">Getting Modifications</h2>
