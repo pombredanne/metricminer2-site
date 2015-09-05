@@ -27,6 +27,7 @@
             <ul>
                 <li>Marco Gerosa</li>
                 <li>Francisco Sokol</li>
+                <li>Francisco Sokol</li>
                 <li>Fábio Petrillo</li>
                 <li>Rodrigo Pinho</li>
             </ul>
