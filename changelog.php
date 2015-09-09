@@ -6,6 +6,12 @@
     <div class="col-lg-12">
         <h1>Team</h1>
 
+        <h2 id="202">2.0.2</h2>
+
+        <ul>
+        <li>Author and Committer in <i>Commit</i> class (the <i>Committer</i> class was renamed to <i>Developer</i>)</li>
+        </ul>
+
         <h2 id="201">2.0.1</h2>
 
         <ul>
