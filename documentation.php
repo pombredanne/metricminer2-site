@@ -124,7 +124,7 @@
         You can get the list of modified files, as well as their diffs and current
         source code. To that, all you have to do is to get the list of <i>Modification</i>s
         that exists inside <i>Commit</i>. A <i>Commit</i> contains a hash, a committer (name
-        and email), a message, the date, its parent hash, and the list of modification.
+        and email), an author (name, and email) a message, the date, its parent hash, and the list of modification.
 
         <script src="https://gist.github.com/mauricioaniche/3472f5c2f5961f734664.js"></script>
 
