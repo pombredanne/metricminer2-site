@@ -47,7 +47,7 @@
                     <? include("menu.php"); ?>
                 </li>
                 <li>
-                    <a href="https://github.com/metricminer-msr/metricminer2" target="_blank">Source Code</a>
+                    <a href="https://github.com/mauricioaniche/metricminer2" target="_blank">Source Code</a>
                 </li>                
                 <li>
                     <a href="changelog.php">Change log</a>
