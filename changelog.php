@@ -6,6 +6,13 @@
     <div class="col-lg-12">
         <h1>Team</h1>
 
+        <h2 id="203">2.0.3</h2>
+
+        <ul>
+        <li>SVN support</li>
+        <li>.process() does not need a PersistenceMechanism anymore</li>
+        </ul>
+
         <h2 id="202">2.0.2</h2>
 
         <ul>

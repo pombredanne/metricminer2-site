@@ -25,6 +25,12 @@
         at <i>mauricioaniche at gmail dot com</i>.
         </p>
 
+        <h2>How can I discuss about it?</h2>
+
+        <p>
+        You can subscribe to our mailing list: <a href="https://groups.google.com/forum/#!forum/metricminer">https://groups.google.com/forum/#!forum/metricminer</a>.
+        </p>
+
         <h2>How do I cite MetricMiner?</h2>
 
         <p>
