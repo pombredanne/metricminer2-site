@@ -5,14 +5,8 @@
 <div class="row">
     <div class="col-lg-12">
         <h1>Team</h1>
-
-        <h2 id="204">2.0.4</h2>
-
-        <ul>
-        <li>Nothing new. Maven sucks.</li>
-        </ul>
-
-        <h2 id="203">2.0.3</h2>
+        
+        <h2 id="204">2.0.3</h2>
 
         <ul>
         <li>SVN support</li>
