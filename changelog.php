@@ -4,8 +4,15 @@
 
 <div class="row">
     <div class="col-lg-12">
-        <h1>Team</h1>
+        <h1>Changelog</h1>
         
+        <h2 id="210">2.1.0</h2>
+
+        <ul>
+        <li>fromTheBeginning() option in DSL configuration.</li>
+        <li>Improvements in Git integration.</li>
+        </ul>
+
         <h2 id="204">2.0.3</h2>
 
         <ul>

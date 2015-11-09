@@ -15,12 +15,18 @@
             you can download all its dependencies by only adding this to your pom.xml. Or, if
             you want, you can download a <a href="download/metricminer2-skeleton.zip">skeleton project</a>: 
 
-            <script src="https://gist.github.com/mauricioaniche/82b9118f874b7bb8dc72.js"></script>
+            <pre>
+                <dependency>
+                  <groupId>br.usp</groupId>
+                  <artifactId>metricminer</artifactId>
+                  <version>2.1.0</version>
+                </dependency>
+            </pre>
 
             Always use the latest version in Maven. You can see them here: 
             <a href="http://www.mvnrepository.com/artifact/br.usp/metricminer">
             http://www.mvnrepository.com/artifact/br.usp/metricminer
-            </a>
+            </a>. You can also see a <a href="https://gist.github.com/mauricioaniche/3eba747930aea97e4adb">fully function pom.xml example</a>.
         </p>
 
         <p>
@@ -48,6 +54,7 @@
             <ul>
             <li>in(): We use to configure the project (or projects) that will be analyzed.</li>
             <li>through(): The list of commits to analyze. We want all of them.</li>
+            <li>fromTheBeginning(): Commits will be analysed from the first commit in history to the most recent. Default is the opposite.</li>
             <li>process(): Visitors that will pass in each commit.</li>
             <li>mine(): The magic starts!</li>
             </ul>
