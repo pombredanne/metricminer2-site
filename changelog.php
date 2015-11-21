@@ -5,6 +5,14 @@
 <div class="row">
     <div class="col-lg-12">
         <h1>Changelog</h1>
+
+        <h2 id="220">2.2.0</h2>
+
+        <ul>
+        <li>Modification has getAdded() and getRemoved(), which is the
+        number of lines added and removed in that modification.</li>
+        </ul>
+
         
         <h2 id="210">2.1.0</h2>
 
