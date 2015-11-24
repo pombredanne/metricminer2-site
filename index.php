@@ -21,7 +21,7 @@
         </p>
 
         <p>
-        Take a look at <a href="documentation.php">our documentation</a>. Or talk to us
+        Take a look at <a href="documentation.php">our documentation</a>, or <a href="https://github.com/mauricioaniche/metricminer2-tutorial">our many examples</a>. Or talk to us
         at <i>mauricioaniche at gmail dot com</i>.
         </p>
 
