@@ -146,8 +146,15 @@
         <h2 id="branches">Branches</h2>
 
         <p>
+        MetricMiner puts all commits from all branches in a single sentence. It means
+        that different commits from different branches will appear. It is your responsibility to filter the branches in your <i>CommitVisitor</i>.
+        </p>
+
+        <p>
         The <i>Commit</i> class contains the <i>getBranches()</i> method. It returns
-        the list of branches in which a commit belongs to.
+        the list of branches in which a commit belongs to. If you want to use only commits
+        in the master branch, you can simply check whether
+        'master' in inside this set.
         </p>
 
         <p>
