@@ -143,6 +143,17 @@
         that it is up to you to handle deleted or renamed files in your study.
         </p>
 
+        <h2 id="branches">Branches</h2>
+
+        <p>
+        The <i>Commit</i> class contains the <i>getBranches()</i> method. It returns
+        the list of branches in which a commit belongs to.
+        </p>
+
+        <p>
+        Note about the implementation: This is not supported by JGit, so it makes use of Git directly.
+        </p>
+        
         <h2 id="state">Managing State in the Visitor</h2>
 
         <p>

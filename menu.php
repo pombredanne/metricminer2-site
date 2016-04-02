@@ -4,6 +4,7 @@
             <li><a href="documentation.php#logging">Logging</a></li>
             <li><a href="documentation.php#commit-range">Selecting the Commit Range</a></li>
             <li><a href="documentation.php#modifications">Getting Modifications</a></li>
+            <li><a href="documentation.php#modifications">Branches</a></li>
             <li><a href="documentation.php#state">Managing State in the Visitor</a></li>
             <li><a href="documentation.php#parse">Parsing Code</a></li>
             <li><a href="documentation.php#current-revision">Getting the Current Revision</a></li>
