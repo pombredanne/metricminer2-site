@@ -6,6 +6,20 @@
     <div class="col-lg-12">
         <h1>Changelog</h1>
 
+        <h2 id="240">2.4.0</h2>
+
+        <ul>
+        <li>Commit has isMerge(), which identifies whether that
+        commit is a merge.</li>
+        </ul>
+
+        <h2 id="230">2.3.0</h2>
+
+        <ul>
+        <li>Commit has getBranches(), which returns the list of branches
+        that commit belongs to.</li>
+        </ul>
+
         <h2 id="220">2.2.0</h2>
 
         <ul>
