@@ -6,6 +6,12 @@
     <div class="col-lg-12">
         <h1>Changelog</h1>
 
+        <h2 id="241">2.4.1</h2>
+
+        <ul>
+        <li>BUGFIX: getFileName() didn't work when modification=DELETE.</li>
+        </ul>
+
         <h2 id="240">2.4.0</h2>
 
         <ul>
